@@ -1,4 +1,4 @@
-Flask
+flask
 pycryptodome
 requests
 protobuf
@@ -7,3 +7,6 @@ aiohttp
 cfonts
 google-play-scraper
 gunicorn
+protobuf-decoder
+psutil
+pytz
