@@ -1,0 +1,9 @@
+Flask
+pycryptodome
+requests
+protobuf
+pyjwt
+aiohttp
+cfonts
+google-play-scraper
+gunicorn
